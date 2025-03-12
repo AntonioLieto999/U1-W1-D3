@@ -38,6 +38,7 @@ header h3 {
   margin-top: 5px;
 }
 body {
+  margin: 0;
   font-family: "Poppins", sans-serif;
 }
 .span-1 {
