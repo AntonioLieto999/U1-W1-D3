@@ -28,12 +28,10 @@ header h3 {
   text-decoration: underline;
   color: #107777;
 }
-footer {
-  text-align: auto;
-}
 .image-subtitle {
   color: #999999;
   text-align: center;
+  margin-top: 5px;
 }
 body {
   font-family: "Poppins", sans-serif;
@@ -49,4 +47,15 @@ hr {
 }
 footer {
   text-align: center;
+}
+.focaccia {
+  padding-top: 10px;
+  border-top: 2px solid lightblue;
+}
+.focaccia-2 {
+  padding-top: 10px;
+  border-top: 2px solid lightblue;
+}
+.first-p {
+  font-size: 0.8em;
 }
