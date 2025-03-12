@@ -68,3 +68,6 @@ footer {
 .method {
   font-family: "Domine", serif;
 }
+li {
+  margin-bottom: 1rem;
+}
