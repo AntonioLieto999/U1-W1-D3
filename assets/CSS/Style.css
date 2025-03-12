@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap");
 main {
-  max-width: 500px;
+  max-width: 700px;
   margin-inline: auto;
 }
 img {
@@ -23,7 +23,7 @@ header h3 {
   font-family: "Domine", serif;
   text-align: center;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
 }
 .first-span {
   color: #b5460f;
