@@ -27,6 +27,7 @@ header h3 {
 }
 .first-span {
   color: #b5460f;
+  font-weight: bold;
 }
 .second-span {
   text-decoration: underline;
@@ -53,11 +54,15 @@ footer {
 .focaccia {
   padding-top: 10px;
   border-top: 2px solid lightblue;
+  font-weight: bold;
 }
 .focaccia-2 {
   font-weight: bold;
   padding-top: 10px;
   border-top: 2px solid lightblue;
+}
+.topping {
+  font-weight: bold;
 }
 .first-p {
   font-size: 1em;
@@ -70,4 +75,7 @@ footer {
 }
 li {
   margin-bottom: 1rem;
+}
+.bolding-p {
+  font-weight: bold;
 }
